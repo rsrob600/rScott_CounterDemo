@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.container{
+	width: 900px;
+	height: auto;
+	margin: 0px auto;
+	line-height: 500px;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	line-height: 500px;
+}
